@@ -1,2 +1,2 @@
 # app_bkp_manager
-Repository of test
+Repository of test, do not use.
